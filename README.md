@@ -4,6 +4,8 @@
 
 > 这是一个 AI 应用自测项目。示例 JD、公司和简历均为虚构，不连接任何招聘平台。
 
+**在线演示**：<https://ai-job-match-8d6w.onrender.com>（Render 免费实例，首次打开约 30–60 秒）
+
 [![CI](https://github.com/Hyxxt/ai-job-match/actions/workflows/ci.yml/badge.svg)](https://github.com/Hyxxt/ai-job-match/actions/workflows/ci.yml)
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Hyxxt/ai-job-match)
 
