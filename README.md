@@ -4,6 +4,9 @@
 
 > 这是一个 AI 应用自测项目。示例 JD、公司和简历均为虚构，不连接任何招聘平台。
 
+[![CI](https://github.com/Hyxxt/ai-job-match/actions/workflows/ci.yml/badge.svg)](https://github.com/Hyxxt/ai-job-match/actions/workflows/ci.yml)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Hyxxt/ai-job-match)
+
 ## 界面
 
 | 输入 JD 和简历 | 匹配诊断与行动建议 |
